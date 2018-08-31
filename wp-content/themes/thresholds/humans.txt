@@ -1,0 +1,22 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Design 
+  Company: The District
+  Site: http://www.thedistrict.co.uk
+  Twitter: @_TheDistrict
+  Location: Cambridge
+  ---
+  Development
+  Company: By Association Only
+  Site: http://byassociationonly.com
+  Twitter:  http://twitter.com/ByAssocOnly
+  Location: Hereford & Cambridge, UK
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, HTML5Shiv
+  Software: Wordpress
+  
